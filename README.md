@@ -12,7 +12,7 @@
 
 重回帰分析（OLS）を用いたシミュレーションの結果、GPA向上には単なる「学習時間の確保」だけでは不十分であり、**「学習方略（質）」** や **「経済的背景（アルバイト時間）」** が強く影響していることを明らかにしました。
 
-👉 **[詳細レポート全文を読む (PDF)](docs/Value_Added_in_Higher_Education.pdf)**
+👉 **[詳細レポート全文を読む (PDF)](docs/Value_Added_in_Higher_EducationValue_Added_in_Higher_Education_Factors_GPA_StudyHabits_PartTimeWork.pdf)**
 
 ---
 
